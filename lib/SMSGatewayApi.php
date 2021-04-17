@@ -1,9 +1,9 @@
 <?php
 /**
- * @package		All SMS Gateway Api
- * @author		Najmul Hossaiin (contact@ntechpark.com)
- * @copyright	Copyright (c) 2019, nTechpark Technologies Ltd.
- * @link		http://ntechpark.com
+ * @package		Vir-Web SMS Api
+ * @author		MinTk (contact@virtualwebmm.com)
+ * @copyright	Copyright (c) 2021, Virtual-Web Automating IT Solutions.
+ * @link		https://www.virtualwevmm.com
 */
 
 /**
@@ -137,10 +137,10 @@ class SMSGatewayApi
 	 *  'filterby_device_id' => $device_id,
 	 *  'filterby_sim_id' => $sim_id,
 	 *  'filterby_status' => $status,
-	 *  'filterby_schedule_from' => '2019-11-11 00:00:00',
-	 *  'filterby_schedule_to' => '2019-11-12 00:00:00',
-	 *  'filterby_from' => '2019-11-11 00:00:00',
-	 *  'filterby_to' => '2019-11-12 00:00:00',
+	 *  'filterby_schedule_from' => '2021-04-06 00:00:00',
+	 *  'filterby_schedule_to' => '2021-04-07 00:00:00',
+	 *  'filterby_from' => '2021-04-06 00:00:00',
+	 *  'filterby_to' => '2021-04-07 00:00:00',
 	 *  'limit' => $limit,
 	 * );
 	 */
@@ -168,8 +168,8 @@ class SMSGatewayApi
 	 *  'filterby_device_id' => $device_id,
 	 *  'filterby_sim_id' => $sim_id,
 	 *  'filterby_mobile_no' => $mobile_no,
-	 *  'filterby_from' => '2019-11-11 00:00:00',
-	 *  'filterby_to' => '2019-11-12 00:00:00',
+	 *  'filterby_from' => '2021-04-06 00:00:00',
+	 *  'filterby_to' => '2021-04-07 00:00:00',
 	 *  'limit' => $limit,
 	 * );
 	 */
