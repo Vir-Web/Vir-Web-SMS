@@ -1,6 +1,6 @@
 # Vir-Web SMS API Client
 
-### Developed by [Virtial-Web Automating IT Solutions.](http://www.virtualwebmm.com)
+### Developed by [Virtual-Web Automating IT Solutions.](http://www.virtualwebmm.com)
 ### Email: contact@virtualwebmm.com
 
 
