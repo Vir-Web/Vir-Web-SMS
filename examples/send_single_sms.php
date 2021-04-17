@@ -71,7 +71,7 @@ Array
                             [bulk] => yes
                             [message] => This SMS from API at localhost
                             [created_at] => 2021-04-06 21:03:00
-                            [mobile_no] => 123456789
+                            [mobile_no] => 0912348588
                             [msgID] => 23
                         )
 
