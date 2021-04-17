@@ -11,7 +11,7 @@ $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
 
 try {
 
- $mobile_no = '11110346122';
+ $mobile_no = '+959123456789';
  $message = 'do you like sport?';
  $device_id = 1;
  $sim_id = 1;
@@ -62,7 +62,7 @@ Array
 
                     [payload] => Array
                         (
-                            [username] => admin.sms@ntechpark.com
+                            [username] => sms@virtualwebmm.com
                             [firebase_access_key] => 
                             [device_model] => 1
                             [device_token] => 
@@ -70,8 +70,8 @@ Array
                             [created_by] => 1
                             [bulk] => yes
                             [message] => This SMS from API at localhost
-                            [created_at] => 2019-11-29 21:03:00
-                            [mobile_no] => 14156661234
+                            [created_at] => 2021-04-06 21:03:00
+                            [mobile_no] => 123456789
                             [msgID] => 23
                         )
 
@@ -95,7 +95,7 @@ $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
 
 try {
 
-    $mobile_no = '11110346122';
+    $mobile_no = '+959123456789';
     $message = 'do you like sport?';
     $sender_id = 'dfewrty56yu';
     $country_id = 14;
